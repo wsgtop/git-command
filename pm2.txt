@@ -1,0 +1,1 @@
+pm2 start app.js --name="api" # 启动应用程序并命名为 "api"
